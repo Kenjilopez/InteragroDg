@@ -1,0 +1,20 @@
+header{
+    text-align: center;
+}
+.logo{
+    width: 300px;
+    height: 300px;
+}
+
+.Objetivos{
+    text-align: center;
+    align-items: center;
+    
+}
+
+body{
+    padding-left: 0.5cm;
+    padding-right: 0.5cm;
+    background-color: beige;
+}
+
