@@ -2,8 +2,8 @@ header{
     text-align: center;
 }
 .logo{
-    width: 290px;
-    height: 300px;
+    width: 300px;
+    height: 360px;
 }
 
 .Objetivos{
@@ -13,12 +13,10 @@ header{
 body{
     padding-left: 0.5cm;
     padding-right: 0.5cm;
-    background-color:beige;
+    background-image:url(Imagenes/Logopit_1710445555162.jpg);
 }
 
 .imgobje{
-    display:block;
-    margin:auto;
     width: 290px;
     height: 250px;   
 }
@@ -30,7 +28,7 @@ body{
 }
 
 .list{
-    background-color: #F6E3CA;
+    background-image: url(Imagenes/03ac4bc2-83a2-4785-a5a6-8fe13a04f55d.png);
     float: center;
     float: center;
     text-align: center;
@@ -45,7 +43,7 @@ body{
 footer{
     display: flex;
     justify-content: space-around;        
-    background-color: #6c6c6c;
+    background-image: url(Imagenes/03ac4bc2-83a2-4785-a5a6-8fe13a04f55d.png);
     padding: 20px 0;
 }
 
@@ -70,10 +68,12 @@ footer{
 }
 
 .imgresu{
-    display:block;
-    margin:auto;
     width: 270px;
     height: 200px;
 }
 
+.subtitles{
+    background-image: url(Imagenes/03ac4bc2-83a2-4785-a5a6-8fe13a04f55d.png);
+    padding: auto;
+}
 
