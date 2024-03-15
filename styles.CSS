@@ -1,3 +1,8 @@
+
+.title{
+    font-family: Brush Script MT, cursive;
+    font-size:1.8cm;
+}
 header{
     text-align: center;
 }
@@ -11,6 +16,7 @@ header{
 }
 
 body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
     padding-left: 0.5cm;
     padding-right: 0.5cm;
     background-image:url(Imagenes/Logopit_1710445555162.jpg);
